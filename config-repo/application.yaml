@@ -1,2 +1,3 @@
-triumphxx:
-  wang: huodongxia
+spring:
+  profiles:
+    active: test
